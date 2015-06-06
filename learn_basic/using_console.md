@@ -57,6 +57,7 @@ JavaScript 控制台可以通过两种方式打开。常用的方式是打开控
 
 ![](https://developer.chrome.com/devtools/docs/console-files/frame-selection.png)
 
+
 *选择一个二级frame*
 
 ![](https://developer.chrome.com/devtools/docs/console-files/locations-between-frames.png)
@@ -432,7 +433,7 @@ Timeline中标记的结果会通过两种方式显示：
 + 隐藏网络消息 - 隐藏关于网络情况的日志，例如屏蔽404或500的日志。
 + 记录 XMLHttpRequests - 设置是否记录 XMLHttpRequest。
 + 切换页面时保存日志 -在页面切换的时候是否保存日志。
-+ 显示时间戳 - 每条语句被调用的时候显示时间戳，开启本功能会关闭 [message stacking](#message-stacking).
++ 显示时间戳 - 每条语句被调用的时候显示时间戳，开启本功能会关闭 [message stacking](#消息栈).
 
 
 ##总结
