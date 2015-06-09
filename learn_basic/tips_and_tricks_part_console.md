@@ -10,7 +10,7 @@
 ![](https://developer.chrome.com/devtools/docs/tips-and-tricks/consolerun.png)
 
 
-关于支持保存代码的多行控制台，阅读[snippet](../development_workflow.md#定制-javascript-代码片段)
+关于支持保存代码的多行控制台，阅读[snippet](./development_workflow.md#定制-javascript-代码片段)
 
 
 ##快捷键打开审查元素模式
@@ -19,7 +19,7 @@
 ![](https://developer.chrome.com/devtools/docs/tips-and-tricks/image_10.pn
 g)
 
-[更多：使用控制台](../using_console.md)
+[更多：使用控制台](./using_console.md)
 
 ##支持console.table 命令
 
@@ -149,4 +149,4 @@ XPath是一种查询语言，用于从DOM文档中查找node，返回结果可�
 ![](https://developer.chrome.com/devtools/docs/tips-and-tricks/image_24.png)
 
 
-**想了解更多关于控制台的使用技巧，请自觉前往[使用控制台](../using_console.md)一章。**
+**想了解更多关于控制台的使用技巧，请自觉前往[使用控制台](./using_console.md)一章。**
