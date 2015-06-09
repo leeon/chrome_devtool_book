@@ -1,9 +1,13 @@
-# Chrome DevTools 手册
+# Chrome 开发者工具
+
+
+    author:leeon
+
 
 * [学习基础]()
     * [概览](learn_basic/overview.md)
     * [开发工作流](learn_basic/development_workflow.md)
     * [使用控制台](learn_basic/using_console.md)
-    * [小技巧](learn_basic/tips_and_tricks.md)
-    * [附件资源](learn_basic/additional_resources.md)
-* [使用工具]()
+    * [小技巧——控制台篇](learn_basic/tips_and_tricks_part_console.md)
+    * [小技巧——Timeline篇(todo)](learn_basic/tips_and_tricks_part_timeline.md)
+    * [附件资源(todo)](learn_basic/additional_resources.md)
