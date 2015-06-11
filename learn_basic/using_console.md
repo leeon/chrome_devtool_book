@@ -278,7 +278,7 @@ CSS格式符允许你自定义控制台输出的样式。第二个参数可以�
 ![](https://developer.chrome.com/devtools/docs/console-files/time-annotation-on-timeline.png)
 
 
-###生成 Timeline
+###标注 Timeline
 在 Timeline 面板，你可以看到浏览器引擎的耗时分布。你可以通过调用`timeStamp()`方法在Timeline中打上一个标记。通过这样的方式你可以看到不同事件之间的联系。
 
 > 注意：`timeStamp()`方法只有在timeline记录期间生效。
