@@ -66,5 +66,5 @@ DevTools 提供了一个FPS的监控计数器，用于显示可视化的帧频�
 记住只关注FPS计数器可能会让你忽视间歇性的闪烁(译注：frames with intermittent jank，猜测指代的是那些错失物理帧的页面帧)，谨慎的分析这些内容。还要注意的是桌面的FPS并不代表移动设备上的情况，移动设备上的性能分析也十分值得关心。
 
 
-**想了解更多关于控制台的使用技巧，请自觉前往[Time](https://developer.chrome.com/devtools/docs/timeline)一章。**
+**想了解更多关于控制台的使用技巧，请自觉前往[Timeline](https://developer.chrome.com/devtools/docs/timeline)一章。**
 
