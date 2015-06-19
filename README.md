@@ -14,4 +14,7 @@
     * [小技巧——代码篇](learn_basic/tips_and_tricks_part_source.md)
     * [小技巧——页面元素篇](learn_basic/tips_and_tricks_part_elements.md)
     * [小技巧——网络篇&设置](learn_basic/tips_and_tricks_part_network.md)
-    * [附件资源(todo)](learn_basic/additional_resources.md)
+* [工具使用]()
+    * [样式编辑与DOM介绍(todo)](using_tools/dom_and_styles.md)
+    * [CSS预处理器(todo)](using_tools/dom_and_styles.md)
+    * [应用存储(todo)](using_tools/resource_panel.md)
