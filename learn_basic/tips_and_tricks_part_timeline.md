@@ -46,7 +46,7 @@ Timeline开启时，圆点会从灰色变为红色。开启监控后，在页面
 ![](https://developer.chrome.com/devtools/docs/tips-and-tricks/image_6.png)
 
 ##标注Timeline
-你可以通过在代码中调用`cnsole.timeStamp()`方法来在Timeline中打上标注。这样更容易找到你自己app中的代码与其他活动代码或浏览器自身实践的关联。
+你可以通过在代码中调用`console.timeStamp()`方法来在Timeline中打上标注。这样更容易找到你自己app中的代码与其他活动代码或浏览器自身实践的关联。
 
 ![](https://developer.chrome.com/devtools/docs/tips-and-tricks/image_7.png)
 

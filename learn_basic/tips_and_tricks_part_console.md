@@ -101,7 +101,7 @@ XPath是一种查询语言，用于从DOM文档中查找node，返回结果可�
 此外，这个方法还支持扩展的参数，你可以在第二个参数中传入查询的上下文，例如`$x(xpath, context)`。通过扩展参数，你可以选择特定上下文里的DOM元素。
 
     var frame = document.getElementsByTagName('iframe')[0].contentWindow.document.body;
-    $x('//'img, frame);
+    $x('//img', frame);
 
 *在指定的frame中查找img元素*
 
